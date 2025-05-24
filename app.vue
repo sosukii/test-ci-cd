@@ -1,6 +1,6 @@
 <template>
   <div>
-    test commit
+    test commit 222
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
   </div>
