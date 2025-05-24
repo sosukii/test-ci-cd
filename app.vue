@@ -1,6 +1,6 @@
 <template>
   <div>
-    test commit 222
+    is it okey with nginx? *-*
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
   </div>
