@@ -1,0 +1,1 @@
+export const PHONE = '+7 909 984 21 17'

@@ -1,7 +1,5 @@
 <template>
-  <div>
-    is it okey with nginx? *-*
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
